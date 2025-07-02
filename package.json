@@ -1,0 +1,8 @@
+{
+  "name": "calclator",
+  "version": "1.0.0",
+  "description": "Simple calculator with scientific functions",
+  "scripts": {
+    "test": "node test.js"
+  }
+}

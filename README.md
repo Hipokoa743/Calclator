@@ -14,3 +14,10 @@
 1. リポジトリをクローンします。
    ```bash
    git clone https://github.com/Hipokoa743/Calclator.git
+   cd Calclator
+   ```
+2. Node.js がインストールされている場合はテストを実行できます。
+   ```bash
+   npm test
+   ```
+3. `index.html` をブラウザで開いて計算機を利用します。
